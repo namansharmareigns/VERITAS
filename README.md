@@ -6,7 +6,7 @@
 
 Turn a debate into a living knowledge object.
 
-GitHub Repository: [ADD REPOSITORY URL]
+GitHub Repository: https://github.com/namansharmareigns/VERITAS
 
 ## Overview
 
@@ -136,22 +136,11 @@ VERITAS/
 └── README.md
 ```
 
-## Screenshots
 
-Capture using the application UI and MongoDB Compass. See [docs/SCREENSHOT_CHECKLIST.md](docs/SCREENSHOT_CHECKLIST.md).
 
 ## Current Status
 
 See [docs/status.md](docs/status.md).
-
-**Assignment (DA2 / Review 2):** [docs/DA2_SUBMISSION_RUNDOWN.md](docs/DA2_SUBMISSION_RUNDOWN.md) — rubric mapping, demo script, screenshot order.
-
-## Future Work
-
-- Advanced autonomous evidence ingestion
-- Atlas Vector Search integration
-- Multi-agent orchestration at scale
-- Production deployment
 
 ## License
 
